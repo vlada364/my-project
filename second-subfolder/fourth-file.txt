@@ -1,0 +1,3 @@
+Fouth file text
+
+This file was modifiend in the feature branch
